@@ -1,15 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="PAT1015" targetName="PAT1015" />
+    </generated>
+  </component>
   <component name="CMakeSettings">
     <configurations>
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
     </configurations>
   </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7c62f6b9-62d9-45df-ba83-d541d35ead18" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PAT1015.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PAT1015.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PAT1015.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PAT1015.dir/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PAT1015.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PAT1015.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/PAT1015.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/PAT1015.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dOH9KZutMYP4hYv2n6TJ6ZfkGl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="F:/sdk" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RunManager">
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -82,17 +127,90 @@
       <listeners />
       <method />
     </configuration>
-    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-    </configuration>
     <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
     </configuration>
+    <configuration name="PAT1015" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PAT1015" TARGET_NAME="PAT1015" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PAT1015" RUN_TARGET_NAME="PAT1015">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c62f6b9-62d9-45df-ba83-d541d35ead18" name="Default Changelist" comment="" />
+      <created>1592289066116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592289066116</updated>
+      <workItem from="1592289067831" duration="7469000" />
+      <workItem from="1592355708623" duration="12447000" />
+      <workItem from="1592440845384" duration="8003000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="558" y="41" key="CommitChangelistDialog2" timestamp="1592470311201">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="558" y="41" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1592470311201" />
+    <state width="1877" height="265" key="GridCell.Tab.0.bottom" timestamp="1592468169877">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1592468169877" />
+    <state width="1877" height="265" key="GridCell.Tab.0.center" timestamp="1592468169877">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="265" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1592468169877" />
+    <state width="1877" height="265" key="GridCell.Tab.0.left" timestamp="1592468169877">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="265" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1592468169877" />
+    <state width="1877" height="265" key="GridCell.Tab.0.right" timestamp="1592468169877">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="265" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1592468169877" />
+    <state width="1877" height="330" key="GridCell.Tab.1.bottom" timestamp="1592463534154">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="330" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1592463534154" />
+    <state width="1877" height="330" key="GridCell.Tab.1.center" timestamp="1592463534154">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="330" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1592463534154" />
+    <state width="1877" height="330" key="GridCell.Tab.1.left" timestamp="1592463534154">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="330" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1592463534154" />
+    <state width="1877" height="330" key="GridCell.Tab.1.right" timestamp="1592463534154">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="330" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1592463534154" />
+    <state x="751" y="452" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592385284522">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="751" y="452" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1592385284522" />
+    <state x="680" y="178" key="refactoring.ChangeSignatureDialog" timestamp="1592465812427">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="680" y="178" key="refactoring.ChangeSignatureDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1592465812427" />
   </component>
 </project>
